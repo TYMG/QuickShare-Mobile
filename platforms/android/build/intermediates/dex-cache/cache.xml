@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_ae9f14cdee03c5b2d649f4dd9126831b58299ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-nativescript-optimized_7405062b16842d1c899b2c5f9873f6d92608869d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_4d2434faeffcc3f493bc6103cbea469d5db8b892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_dee92361a732630432fad3ec890e7a7bafa397f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_d055ef07266d4817a565c1da907898a30a322572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_8eac4b7ff165b1b137e8b81e02d99f52e67cd2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_c967d3b3248f8b2faaf127d834abb49061f7cb00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_c6bc7026fac738a968e325cab89a668c168db284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_0549fda8449271d469f2fdb105da854f18f4c6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_65aab061675fd86e1b2bb8680d78e990a80a4d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_163e41119eadcadb357e0717543aa85abc5b2e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_24fa0069e7c90aa8c5b2cb0b38602037afe18577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_e78416bd88cbbb81f12683cdd1f4414c19af6f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/GreenMachine/GitHub/QuickShare-Mobile/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_d9d572b512a2416803c56f65aa29f36e9e772341.jar" />
+    </item>
+
+</items>
